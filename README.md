@@ -1,1 +1,1 @@
-Tämän sivuston [wikiin](wiki) on koottu määrittelyjä niistä koneluettavista tiedoista, joita käytetään ylioppilastutkinnon järjestämisessä. Sivu on tarkoitettu ohjelmistokehittäjille joiden palvelut luovat ilmoittautumistietoja tai vastaanottavat tulostietoja.
+Tämän sivuston [wikiin](https://github.com/digabi/ilmoittautuminen/wiki) on koottu määrittelyjä niistä koneluettavista tiedoista, joita käytetään ylioppilastutkinnon järjestämisessä. Sivu on tarkoitettu ohjelmistokehittäjille joiden palvelut luovat ilmoittautumistietoja tai vastaanottavat tulostietoja.
