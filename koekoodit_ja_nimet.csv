@@ -1,42 +1,43 @@
-A;Äidinkieli ja kirjallisuus, suomi;Modersmål och litteratur, finska
-O;Äidinkieli ja kirjallisuus, ruotsi;Modersmål och litteratur, svenska
-Z;Äidinkieli ja kirjallisuus, pohjoissaame;Modersmål och litteratur, nordsamiska
-I;Äidinkieli ja kirjallisuus, inarinsaame;Modersmål och litteratur, enaresamiska
-W;Äidinkieli ja kirjallisuus, koltansaame;Modersmål och litteratur, skoltsamiska
-A5;Äidinkieli ja kirjallisuus, suomi toisena kielenä;Modersmål och litteratur, finska som andraspråk
-O5;Äidinkieli ja kirjallisuus ruotsi toisena kielenä;Modersmål och litteratur, svenska som andraspråk
-BA;Ruotsi, pitkä oppimäärä;Svenska, lång lärokurs
-BB;Ruotsi, keskipitkä oppimäärä;Svenska, medellång lärokurs
-CA;Suomi, pitkä oppimäärä;Finska, lång lärokurs
-CB;Suomi, keskipitkä oppimäärä;Finska, medellång lärokurs
-M;Matematiikka, pitkä oppimäärä;Matematik, lång lärokurs
-N;Matematiikka, lyhyt oppimäärä;Matematik, kort lärokurs
-EA;Englanti, pitkä oppimäärä;Engelska, lång lärokurs
-FA;Ranska, pitkä oppimäärä;Franska, lång lärokurs
-PA;Espanja, pitkä oppimäärä;Spanska, lång lärokurs
-SA;Saksa, pitkä oppimäärä;Tyska, lång lärokurs
-VA;Venäjä, pitkä oppimäärä;Ryska, lång lärokurs
-EC;Englanti, lyhyt oppimäärä;Engelska, kort lärokurs
-FC;Ranska, lyhyt oppimäärä;Franska, kort lärokurs
-PC;Espanja, lyhyt oppimäärä;Spanska, kort lärokurs
-SC;Saksa, lyhyt oppimäärä;Tyska, kort lärokurs
-VC;Venäjä, lyhyt oppimäärä;Ryska, kort lärokurs
-TC;Italia, lyhyt oppimäärä;Italienska, kort lärokurs
-GC;Portugali, lyhyt oppimäärä;Portugisiska, kort lärokurs
-L7;Latina, laajempi lyhyt oppimäärä;Latin, längre kort lärokurs
-L1;Latina, lyhyt oppimäärä;Latin, kort lärokurs
-DC;Pohjoissaame, lyhyt oppimäärä;Nordsamiska, kort lärokurs
-IC;Inarinsaame, lyhyt oppimäärä;Enaresamiska, kort lärokurs
-QC;Koltansaame, lyhyt oppimäärä;Skoltsamiska, kort lärokurs
-UE;Evankelis-luterilainen uskonto;Evangelisk-luthersk religion
-UO;Ortodoksinen uskonto;Ortodox religion
-ET;Elämänkatsomustieto;Livsåskådningskunskap
-YH;Yhteiskuntaoppi;Samhällslära
-KE;Kemia;Kemi
-GE;Maantiede;Geografi
-TE;Terveystieto;Hälsokunskap
-PS;Psykologia;Psykologi
-FF;Filosofia;Filosofi
-HI;Historia;Historia
-FY;Fysiikka;Fysik
-BI;Biologia;Biologi
+﻿KOODI;FI;SV;EN
+BI;Biologia;Biologi;Biology
+ET;Elämänkatsomustieto;Livsåskådningskunskap;Worldview studies
+EC;Englanti, lyhyt oppimäärä;Engelska, kort lärokurs;English, basic level
+EA;Englanti, pitkä oppimäärä;Engelska, lång lärokurs;English, advanced level
+PC;Espanja, lyhyt oppimäärä;Spanska, kort lärokurs;Spanish, basic level
+PA;Espanja, pitkä oppimäärä;Spanska, lång lärokurs;Spanish, advanced level
+UE;Evankelis-luterilainen uskonto;Evangelisk-luthersk religion;Evangelical-lutheran religion
+FF;Filosofia;Filosofi;Philosophy
+FY;Fysiikka;Fysik;Physics
+HI;Historia;Historia;History
+IC;Inarinsaame, lyhyt oppimäärä;Enaresamiska, kort lärokurs;Inari Sámi, basic level
+TC;Italia, lyhyt oppimäärä;Italienska, kort lärokurs;Italian, basic level
+KE;Kemia;Kemi;Chemistry
+QC;Koltansaame, lyhyt oppimäärä;Skoltsamiska, kort lärokurs;Skolt Sámi, basic level
+L7;Latina, laajempi lyhyt oppimäärä;Latin, längre kort lärokurs;Latin, extended basic level
+L1;Latina, lyhyt oppimäärä;Latin, kort lärokurs;Latin, basic level
+GE;Maantiede;Geografi;Geography
+N;Matematiikka, lyhyt oppimäärä;Matematik, kort lärokurs;Mathematics, basic level
+M;Matematiikka, pitkä oppimäärä;Matematik, lång lärokurs;Mathematics, advanced level
+UO;Ortodoksinen uskonto;Ortodox religion;Orthodox religion
+DC;Pohjoissaame, lyhyt oppimäärä;Nordsamiska, kort lärokurs;Northern Sámi, basic level
+GC;Portugali, lyhyt oppimäärä;Portugisiska, kort lärokurs;Portuguese, basic level
+PS;Psykologia;Psykologi;Psychology
+FC;Ranska, lyhyt oppimäärä;Franska, kort lärokurs;French, basic level
+FA;Ranska, pitkä oppimäärä;Franska, lång lärokurs;French, advanced level
+BB;Ruotsi, keskipitkä oppimäärä;Svenska, medellång lärokurs;Swedish, intermediate level
+BA;Ruotsi, pitkä oppimäärä;Svenska, lång lärokurs;Swedish, advanced level
+SC;Saksa, lyhyt oppimäärä;Tyska, kort lärokurs;German, basic level
+SA;Saksa, pitkä oppimäärä;Tyska, lång lärokurs;German, advanced level
+CB;Suomi, keskipitkä oppimäärä;Finska, medellång lärokurs;Finnish, intermediate level
+CA;Suomi, pitkä oppimäärä;Finska, lång lärokurs;Finnish, advanced level
+TE;Terveystieto;Hälsokunskap;Health education
+VC;Venäjä, lyhyt oppimäärä;Ryska, kort lärokurs;Russian, basic level
+VA;Venäjä, pitkä oppimäärä;Ryska, lång lärokurs;Russian, advanced level
+YH;Yhteiskuntaoppi;Samhällslära;Social studies
+O5;Äidinkieli ja kirjallisuus, ruotsi toisena kielenä;Modersmål och litteratur, svenska som andraspråk;Mother tongue and literature, Inari Sámi
+I;Äidinkieli ja kirjallisuus, inarinsaame;Modersmål och litteratur, enaresamiska;Mother tongue and literature, Skolt Sámi
+W;Äidinkieli ja kirjallisuus, koltansaame;Modersmål och litteratur, skoltsamiska;Mother tongue and literature, Northern Sámi
+Z;Äidinkieli ja kirjallisuus, pohjoissaame;Modersmål och litteratur, nordsamiska;Mother tongue and literature, Swedish
+O;Äidinkieli ja kirjallisuus, ruotsi;Modersmål och litteratur, svenska;Mother tongue and literature, Swedish as a second language
+A;Äidinkieli ja kirjallisuus, suomi;Modersmål och litteratur, finska;Mother tongue and literature, Finnish
+A5;Äidinkieli ja kirjallisuus, suomi toisena kielenä;Modersmål och litteratur, finska som andraspråk;Mother tongue and literature, Finnish as a second language
