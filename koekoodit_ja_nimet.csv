@@ -1,11 +1,11 @@
-﻿KOODI;FI;SV;EN
+KOODI;FI;SV;EN
 BI;Biologia;Biologi;Biology
 ET;Elämänkatsomustieto;Livsåskådningskunskap;Worldview studies
 EC;Englanti, lyhyt oppimäärä;Engelska, kort lärokurs;English, basic level
 EA;Englanti, pitkä oppimäärä;Engelska, lång lärokurs;English, advanced level
 PC;Espanja, lyhyt oppimäärä;Spanska, kort lärokurs;Spanish, basic level
 PA;Espanja, pitkä oppimäärä;Spanska, lång lärokurs;Spanish, advanced level
-UE;Evankelis-luterilainen uskonto;Evangelisk-luthersk religion;Evangelical-lutheran religion
+UE;Evankelisluterilainen uskonto;Evangelisk-luthersk religion;Evangelic-Lutheran religion
 FF;Filosofia;Filosofi;Philosophy
 FY;Fysiikka;Fysik;Physics
 HI;Historia;Historia;History
@@ -34,10 +34,10 @@ TE;Terveystieto;Hälsokunskap;Health education
 VC;Venäjä, lyhyt oppimäärä;Ryska, kort lärokurs;Russian, basic level
 VA;Venäjä, pitkä oppimäärä;Ryska, lång lärokurs;Russian, advanced level
 YH;Yhteiskuntaoppi;Samhällslära;Social studies
-O5;Äidinkieli ja kirjallisuus, ruotsi toisena kielenä;Modersmål och litteratur, svenska som andraspråk;Mother tongue and literature, Inari Sámi
-I;Äidinkieli ja kirjallisuus, inarinsaame;Modersmål och litteratur, enaresamiska;Mother tongue and literature, Skolt Sámi
-W;Äidinkieli ja kirjallisuus, koltansaame;Modersmål och litteratur, skoltsamiska;Mother tongue and literature, Northern Sámi
-Z;Äidinkieli ja kirjallisuus, pohjoissaame;Modersmål och litteratur, nordsamiska;Mother tongue and literature, Swedish
-O;Äidinkieli ja kirjallisuus, ruotsi;Modersmål och litteratur, svenska;Mother tongue and literature, Swedish as a second language
+O5;Äidinkieli ja kirjallisuus, ruotsi toisena kielenä;Modersmål och litteratur, svenska som andraspråk;Mother tongue and literature, Swedish as a second language
+I;Äidinkieli ja kirjallisuus, inarinsaame;Modersmål och litteratur, enaresamiska;Mother tongue and literature, Inari Sámi
+W;Äidinkieli ja kirjallisuus, koltansaame;Modersmål och litteratur, skoltsamiska;Mother tongue and literature,  Skolt Sámi
+Z;Äidinkieli ja kirjallisuus, pohjoissaame;Modersmål och litteratur, nordsamiska;Mother tongue and literature, Northern Sámi
+O;Äidinkieli ja kirjallisuus, ruotsi;Modersmål och litteratur, svenska;Mother tongue and literature, Swedish
 A;Äidinkieli ja kirjallisuus, suomi;Modersmål och litteratur, finska;Mother tongue and literature, Finnish
 A5;Äidinkieli ja kirjallisuus, suomi toisena kielenä;Modersmål och litteratur, finska som andraspråk;Mother tongue and literature, Finnish as a second language
