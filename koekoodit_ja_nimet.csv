@@ -41,36 +41,6 @@ O;Äidinkieli ja kirjallisuus, ruotsi;Modersmål och litteratur, svenska;Mother 
 A;Äidinkieli ja kirjallisuus, suomi;Modersmål och litteratur, finska;Mother tongue and literature, Finnish
 A5;Äidinkieli ja kirjallisuus, suomi toisena kielenä;Modersmål och litteratur, finska som andraspråk;Mother tongue and literature, Finnish as a second language
 L7;Latina, laajempi lyhyt oppimäärä;Latin, längre kort lärokurs;Latin, extended basic level
-C;Kreikka, lyhyt oppimäärä;Grekiska, kort lärokurs;Greek, basic level
-J;Englanninkielinen kypsyyskoe;Engelskspråkigt mognadsprov;English-language maturity test
-HB;Unkari, keskipitkä oppimäärä;Ungerska, medellång lärokurs;Hungarian, intermediate level
-GA;Portugali, pitkä oppimäärä;Portugisiska, lång lärokurs;Portuguese, advanced level
-FB;Ranska, keskipitkä oppimäärä;Franska, medellång lärokurs;French, intermediate level
-GB;Portugali, keskipitkä oppimäärä;Portugisiska, medellång lärokurs;Portuguese, intermediate level
-EB;Englanti, keskipitkä oppimäärä;Engelska, medellång lärokurs;English, intermediate level
-SB;Saksa, keskipitkä oppimäärä;Tyska, medellång lärokurs;German, intermediate level
-HA;Unkari, pitkä oppimäärä;Ungerska, lång lärokurs;Hungarian, advanced level
-R;Reaali vanha;Realprov, gammal form;General studies examination (old)
-RO;Reaalikoe;Realprov;General studies
-RR;Reaalikoe;Realprov;General studies
-RY;Reaalikoe;Realprov;General studies
-S9;Saksalaisen koulun saksan kielen koe;Tysk examen;German examination
-E1;Englanti, pitkä oppimäärä;Engelska, lång lärokurs;English, advanced level
-E2;Englanti, keskipitkä oppimäärä;Engelska, medellång lärokurs;English, intermediate level
-F1;Ranska, pitkä oppimäärä;Franska, lång lärokurs;French, advanced level
-F2;Ranska, keskipitkä oppimäärä;Franska, medellång lärokurs;French, intermediate level
-G1;Portugali, pitkä oppimäärä;Portugisiska, lång lärokurs;Portuguese, advanced level
-G2;Portugali, keskipitkä oppimäärä;Portugisiska, medellång lärokurs;Portuguese, intermediate level
-H1;Unkari, pitkä oppimäärä;Ungerska, lång lärokurs;Hungarian, advanced level
-H2;Unkari, keskipitkä oppimäärä;Ungerska, medellång lärokurs;Hungarian, intermediate level
-P1;Espanja, pitkä oppimäärä;Spanska, lång lärokurs;Spanish, advanced level
-P2;Espanja, keskipitkä oppimäärä;Spanska, medellång lärokurs;Spanish, intermediate level
-S1;Saksa, pitkä oppimäärä;Tyska, lång lärokurs;German, advanced level
-S2;Saksa, keskipitkä oppimäärä;Tyska, medellång lärokurs;German, intermediate level
-T1;Italia, pitkä oppimäärä;Italienska, lång lärokurs;Italian, advanced level
-T2;Italia, keskipitkä oppimäärä;Italienska, medellång lärokurs;Italian, intermediate level
-V1;Venäjä, pitkä oppimäärä;Ryska, lång lärokurs;Russian, advanced level
-V2;Venäjä, keskipitkä oppimäärä;Ryska, medellång lärokurs;Russian, intermediate level
 KC;Kreikka, lyhyt oppimäärä;Grekiska, kort lärokurs;Greek, basic level
 J;Englanninkielinen kypsyyskoe;Engelskspråkigt mognadsprov;English-language maturity test
 HB;Unkari, keskipitkä oppimäärä;Ungerska, medellång lärokurs;Hungarian, intermediate level
@@ -84,7 +54,7 @@ R;Reaalikoe;Realprov;General studies
 RO;Reaalikoe;Realprov;General studies
 RR;Reaalikoe;Realprov;General studies
 RY;Reaalikoe;Realprov;General studies
-S9;Helsingin Saksalaisen koulun saksan kielen koe;Tyskans prov vid Helsingfors tyska skola;German Test of the Helsinki German School
+S9;Helsingin Saksalaisen koulun saksan kielen koe;Prov i tyska vid Helsingfors tyska skola;Test in German of the Helsinki German School
 E1;Englanti, pitkä oppimäärä;Engelska, lång lärokurs;English, advanced level
 E2;Englanti, keskipitkä oppimäärä;Engelska, medellång lärokurs;English, intermediate level
 F1;Ranska, pitkä oppimäärä;Franska, lång lärokurs;French, advanced level
